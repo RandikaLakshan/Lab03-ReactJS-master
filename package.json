@@ -1,0 +1,25 @@
+{
+  "name": "lab03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.jsx",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AF-Labs/Lab03-ReactJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AF-Labs/Lab03-ReactJS/issues"
+  },
+  "homepage": "https://github.com/AF-Labs/Lab03-ReactJS#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.11.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  }
+}
